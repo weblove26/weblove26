@@ -14,17 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
-
-**weblove26/weblove26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on developing a new web application that focuses on connecting local artists with their communities.
-- 🌱 I’m currently learning Rust, as I'm fascinated by its approach to memory safety and performance.
-- 👯 I’m looking to collaborate on open-source projects related to web development frameworks or tools for managing remote teams.
-- 🤔 I’m looking for help with implementing advanced security features in my latest project. If you have experience in this area, please reach out!
-- 💬 Ask me about my experiences with React.js and how I've integrated it into various projects.
+- 🔭 I’m currently working on a Vue.js project focused on optimizing performance and handling network requests efficiently.
+- 🌱 I’m currently learning advanced Vue.js techniques and best practices for using axios.
+- 👯 I’m looking to collaborate on open-source projects related to front-end development.
+- 🤔 I’m looking for help with improving script loading times and managing network requests in Vue.js.
+- 💬 Ask me about Vue.js, axios, or any front-end development topics!
 - 📫 How to reach me: You can send me an email.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once participated in a 24-hour hackathon and ended up winning first place with a real-time translation app.
-Feel free to drop me a line if you have any questions or would like to chat about any of these topics!
+- ⚡ Fun fact: I love exploring new JavaScript frameworks and libraries in my free time!
