@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects related to web development frameworks or tools for managing remote teams.
 - 🤔 I’m looking for help with implementing advanced security features in my latest project. If you have experience in this area, please reach out!
 - 💬 Ask me about my experiences with React.js and how I've integrated it into various projects.
-- 📫 How to reach me: You can send me an email at [your.email@example.com] or connect with me on LinkedIn.
+- 📫 How to reach me: You can send me an email.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once participated in a 24-hour hackathon and ended up winning first place with a real-time translation app.
 Feel free to drop me a line if you have any questions or would like to chat about any of these topics!
